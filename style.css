@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    gap: 5em;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+label{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+button{
+    padding: 1em 2em;
+    width: 100%;
+    background-color: steelblue;
+    color: whitesmoke;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+textarea{
+    padding: 1em;
+    font-size: 1.3em;
+    font-family: monospace;
+    
+}
