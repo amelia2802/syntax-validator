@@ -6,7 +6,7 @@
 A tool for validating HTML syntax.
 
 ## Website
-[Check your Syntax](https://example.com)
+[Check your Syntax](https://amelia2802.github.io/syntax-validator/)
 
 ## Preview
 | Valid Syntax | Invalid Syntax |
