@@ -7,6 +7,7 @@ A tool for validating HTML syntax.
 
 ## Website
 [Check your Syntax](https://amelia2802.github.io/syntax-validator/)
+BLog: https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-2-html-syntax-validator-1c35
 
 ## Preview
 | Valid Syntax | Invalid Syntax |
